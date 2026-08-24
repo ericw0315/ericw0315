@@ -31,33 +31,19 @@
 - 📫 Reach me at: **wangenbo0315@gmail.com**
 - ⚡ Fun fact: I believe curiosity and consistency create great things
 
-## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-
-
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Contribution Streak
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=ericw0315&show_icons=true&theme=transparent&hide_border=true"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=ericw0315&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true"
     alt="Eric's GitHub Stats"
   />
   <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ericw0315&layout=compact&theme=transparent&hide_border=true"
-    alt="Eric's Top Languages"
-  />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
+    width="49%"
     src="https://streak-stats.demolab.com?user=ericw0315&amp;theme=transparent&amp;hide_border=true"
-    alt="GitHub Contribution Streak"
+    alt="Eric's Contribution Streak"
   />
 </p>
 
