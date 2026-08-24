@@ -35,40 +35,38 @@
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| [Project One](https://github.com/your-username/project-one) | A practical open-source project that solves a real-world problem. | TypeScript / React |
-| [Project Two](https://github.com/your-username/project-two) | A tool or service built for learning and experimentation. | Node.js / Python |
-| [Project Three](https://github.com/your-username/project-three) | A personal project, component library, or creative experiment. | Your stack |
+
 
 ## 📊 GitHub Statistics
 
-<p>
+<p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ericw0315&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=ericw0315&show_icons=true&theme=transparent&hide_border=true"
+    alt="Eric's GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericw0315&layout=compact&theme=transparent&hide_border=true"
-    alt="Top Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ericw0315&layout=compact&theme=transparent&hide_border=true"
+    alt="Eric's Top Languages"
   />
 </p>
 
 ## 🔥 Contribution Streak
 
-<p>
+<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ericw0315&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com?user=ericw0315&amp;theme=transparent&amp;hide_border=true"
     alt="GitHub Contribution Streak"
   />
 </p>
 
 ## 🏆 GitHub Trophies
 
-<p>
+<p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ericw0315&theme=flat&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies"
+    src="https://trophy.ryglcloud.net/?username=ericw0315&theme=flat&no-frame=true&no-bg=true&margin-w=8"
+    alt="Eric's GitHub Trophies"
   />
 </p>
 
