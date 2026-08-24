@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ericw0315">
-    <img src="https://img.shields.io/badge/GitHub-your--username-181717?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-ericw0315-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:wangenbo0315@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
