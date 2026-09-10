@@ -58,9 +58,4 @@
 
 ## 📈 Activity Graph
 
-<p>
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ericw0315&theme=github-compact&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+![](./profile-3d-contrib/profile-green-animate.svg)
